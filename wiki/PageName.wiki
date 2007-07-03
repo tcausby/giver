@@ -12,3 +12,6 @@ http://video.google.com/googleplayer.swf?docId=3768442676796881783&hl=en
 
 Giver is a product of Novell Hack Week and was chosen as the Best Desktop Project.  For more information, check out the Hack Week Page: http://idea.opensuse.org/content/ideas/easy-file-sharing
 
+= Mailing List =
+
+http://groups.google.com/group/giver-list
